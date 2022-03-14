@@ -15,6 +15,7 @@ public class Test5 {
 
     public static void main(String[] args) {
         B5 b = new B5();
+        B5 b2 = new B5();
     }
 }
 
